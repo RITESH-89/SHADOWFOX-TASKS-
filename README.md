@@ -53,18 +53,17 @@ To run the code examples:
 ```bash
 pip install matplotlib seaborn pandas numpy
 
+
 ## ✨ Acknowledgements
 
-Special thanks to **Shadow Fox** for the opportunity to explore real-world data visualization and create hands-on beginner content as part of their Data Science Internship program.
+Special thanks to **Shadow Fox** for providing the opportunity to work on real-world data visualization tasks and build hands-on, beginner-friendly content as part of their **Data Science Internship** program.
 
 ---
 
 ## 👤 Author
 
-**Ritesh Paithankar**  
-🧑‍💻 Data Science Intern at Shadow Fox  
-📍 India  
-🔗 [LinkedIn](www.linkedin.com/in/ritesh-paithankar-4b43a828a)  
+**Ritesh Paithankar**
+💼 Data Science Intern at Shadow Fox
+🌍 India
+🔗 [LinkedIn](https://www.linkedin.com/in/ritesh-paithankar-4b43a828a)
 📧 riteshpaithankar00@gmail.com
-
-
