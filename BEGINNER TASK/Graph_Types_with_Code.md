@@ -23,6 +23,9 @@ plt.ylabel("Y Axis")
 plt.grid(True)
 plt.show()
 
+### ➤ Seaborne
+'''python
+
 import seaborn as sns
 import matplotlib.pyplot as plt
 
@@ -32,7 +35,7 @@ sns.lineplot(data=data, x="year", y="passengers")
 plt.title("Passengers Over Years")
 plt.show()
 
-# 2. 📊 Bar Chart
+## 2. 📊 Bar Chart
 Use Case: Comparing quantities between different categories.
 
 import matplotlib.pyplot as plt
