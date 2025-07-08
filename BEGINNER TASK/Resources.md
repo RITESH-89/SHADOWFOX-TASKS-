@@ -1,4 +1,4 @@
-# 📚 Step 6: Official Resources
+# 📚 Official Resources
 
 Below are the official documentation and quick-start guides for the libraries used in this project.
 
